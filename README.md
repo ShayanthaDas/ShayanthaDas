@@ -1,68 +1,54 @@
-Shayantha Das – GitHub Profile
+Hi, I'm Shayantha Das
+Aspiring Data Analyst | Business Analytics Enthusiast | Marketing Background
 
-Overview
+About Me:
+I am a business graduate with a strong interest in data analytics, currently building end-to-end projects that combine data analysis, visualization, and machine learning.
 
-This GitHub profile represents a growing portfolio in data analytics, business intelligence, and machine learning projects.
+My focus is on transforming raw data into meaningful insights that support real business decisions. I work with tools like Python, SQL, Excel, and BI platforms to analyze data across different domains including marketing, HR, e-commerce, and sales.
 
-The work here is mainly focused on transforming raw data into meaningful insights using tools like Python, SQL, Excel, Power BI, and Tableau. The projects show a clear progression from basic analysis to more complete end-to-end analytical solutions.
+What I Do:
+Analyze data to uncover business insights
+Build dashboards for performance tracking
+Apply machine learning for prediction problems
+Translate data into actionable business recommendations
 
-Overall, this profile reflects someone building practical, job-oriented data analytics skills through hands-on projects rather than just theoretical learning.
+Featured Projects:
+Olist Sales & Customer Analytics (End-to-End):
+Full e-commerce analysis covering customer behavior, revenue trends, and logistics performance
+🔗 https://github.com/ShayanthaDas/Olist-Sales-Customer-Analytics-End-to-End-Data-Project-
 
-What This Profile Shows
+HR Analytics: Employee Attrition Analysis:
+Identifies key factors behind employee turnover and retention
+🔗 https://github.com/ShayanthaDas/HR-Analytics-Employee-Attrition-Python
 
-Across the repositories, the work can be grouped into three main areas:
+Employee Attrition Prediction (Machine Learning):
+Predicts employees at risk of leaving using classification models
+🔗 https://github.com/ShayanthaDas/Employee-Attrition-Prediction-using-Machine-Learning
 
-Data Analysis Projects
-Sales analysis using Python and Excel
-E-commerce and retail data exploration
-KPI tracking and performance dashboards
+Marketing Campaign Performance Analytics:
+Evaluates ROI, conversion, and campaign effectiveness
+🔗 https://github.com/ShayanthaDas/Marketing-Campaign-Performance-Analytics
 
-Machine Learning Projects
-House price prediction models
-Titanic survival prediction
-Employee attrition prediction
+Global Ads Analytics Dashboard:
+Interactive dashboard for tracking ad performance and ROI
+🔗 https://github.com/ShayanthaDas/global-ads-analytics-dashboard
 
-These projects focus on classification and regression problems using Scikit-learn.
+Tools & Technologies:
+Languages: Python, SQL
+Data Analysis: Pandas, NumPy
+Visualization: Matplotlib, Seaborn
+Databases: MySQL, PostgreSQL
+BI Tools: Power BI, Tableau, Excel
 
-Business Intelligence Dashboards
-Power BI and Excel dashboards for sales and marketing data
-Interactive KPI-based reporting systems
-Visual storytelling for business decision-making
+Current Focus:
+Improving advanced data analysis skills
+Building end-to-end analytics projects
+Exploring business and marketing analytics
+Preparing for data analyst roles and international opportunities
 
-Tools & Skills Used
+Career Goal:
+To build a career in data analytics where I can combine business knowledge with data-driven decision-making, and eventually grow into a business or data analyst role in an international environment.
 
-This profile demonstrates hands-on experience with:
-
-Python: Pandas, NumPy, Scikit-learn, Matplotlib
-SQL: Data extraction and querying
-Excel: Advanced formulas, Pivot Tables, dashboards
-Power BI / Tableau: Interactive dashboards and reporting
-Machine Learning: Classification & regression models
-Data Visualization: Turning data into business insights
-
-Project Strengths
-
-What stands out in this profile:
-
-Covers the full data pipeline (cleaning → analysis → visualization → insights)
-Mix of both technical ML projects and business-focused dashboards
-Strong focus on real-world datasets (sales, HR, e-commerce)
-Consistent effort to connect analysis with business decisions
-
-Areas for Improvement (Important)
-
-To make this profile more competitive for jobs or scholarships:
-
-Add a clear pinned “Top 3 projects” section
-Improve each README with:
-Business impact (not just analysis)
-Screenshots of dashboards
-Clear KPIs and results
-Create a GitHub profile README (personal homepage)
-Standardize project structure across all repos
-
-Right now, the technical work is there, but presentation can be upgraded to look more industry-level.
-
-Final Note
-This GitHub profile is at a solid junior-to-intermediate data analyst level, with good exposure to real analytics workflows.
-With better storytelling, visualization, and presentation, it can easily move into a job-ready portfolio level.
+Connect With Me:
+LinkedIn: (https://www.linkedin.com/in/shayantha-das/)
+Email: shayanthadas@gmail.com
