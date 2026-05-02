@@ -50,5 +50,5 @@ Career Goal:
 To build a career in data analytics where I can combine business knowledge with data-driven decision-making, and eventually grow into a business or data analyst role in an international environment.
 
 Connect With Me:
-LinkedIn: (https://www.linkedin.com/in/shayantha-das/)
+LinkedIn: https://www.linkedin.com/in/shayantha-das/
 Email: shayanthadas@gmail.com
