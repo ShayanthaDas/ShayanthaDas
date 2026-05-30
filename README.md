@@ -1,54 +1,53 @@
-Hi, I'm Shayantha Das
-Aspiring Data Analyst | Business Analytics Enthusiast | Marketing Background
+# Hi, I’m Shayantha Das
 
-About Me:
-I am a business graduate with a strong interest in data analytics, currently building end-to-end projects that combine data analysis, visualization, and machine learning.
+I’m a Business Analytics / Data Analytics enthusiast focused on turning raw data into business insights.
 
-My focus is on transforming raw data into meaningful insights that support real business decisions. I work with tools like Python, SQL, Excel, and BI platforms to analyze data across different domains including marketing, HR, e-commerce, and sales.
+I work mainly with Python, SQL, Excel, and Power BI to analyze real-world problems in sales, marketing, HR, and e-commerce.
 
-What I Do:
-Analyze data to uncover business insights
-Build dashboards for performance tracking
-Apply machine learning for prediction problems
-Translate data into actionable business recommendations
+---
 
-Featured Projects:
-Olist Sales & Customer Analytics (End-to-End):
-Full e-commerce analysis covering customer behavior, revenue trends, and logistics performance
-🔗 https://github.com/ShayanthaDas/Olist-Sales-Customer-Analytics-End-to-End-Data-Project-
+## What I do
 
-HR Analytics: Employee Attrition Analysis:
-Identifies key factors behind employee turnover and retention
-🔗 https://github.com/ShayanthaDas/HR-Analytics-Employee-Attrition-Python
+* Data Analysis & Visualization
+* Business Intelligence Dashboards
+* Machine Learning for basic prediction problems
+* Marketing & Sales Analytics
+* HR Analytics (Attrition & workforce insights)
 
-Employee Attrition Prediction (Machine Learning):
-Predicts employees at risk of leaving using classification models
-🔗 https://github.com/ShayanthaDas/Employee-Attrition-Prediction-using-Machine-Learning
+---
 
-Marketing Campaign Performance Analytics:
-Evaluates ROI, conversion, and campaign effectiveness
-🔗 https://github.com/ShayanthaDas/Marketing-Campaign-Performance-Analytics
+## Featured Projects
 
-Global Ads Analytics Dashboard:
-Interactive dashboard for tracking ad performance and ROI
-🔗 https://github.com/ShayanthaDas/global-ads-analytics-dashboard
+### Olist E-commerce Analytics (Flagship Project)
 
-Tools & Technologies:
-Languages: Python, SQL
-Data Analysis: Pandas, NumPy
-Visualization: Matplotlib, Seaborn
-Databases: MySQL, PostgreSQL
-BI Tools: Power BI, Tableau, Excel
+End-to-end analysis of customer behavior, sales trends, and delivery performance in an e-commerce system.
 
-Current Focus:
-Improving advanced data analysis skills
-Building end-to-end analytics projects
-Exploring business and marketing analytics
-Preparing for data analyst roles and international opportunities
+### HR Employee Attrition Analysis
 
-Career Goal:
-To build a career in data analytics where I can combine business knowledge with data-driven decision-making, and eventually grow into a business or data analyst role in an international environment.
+Analyzed employee data to understand key drivers of turnover and retention.
 
-Connect With Me:
-LinkedIn: https://www.linkedin.com/in/shayantha-das/
-Email: shayanthadas@gmail.com
+### Marketing Campaign Performance Analysis
+
+Evaluated campaign ROI, engagement, and channel effectiveness.
+
+### Sales Dashboard (Excel / Power BI)
+
+Built interactive dashboards to track business performance and KPIs.
+
+---
+
+## Tools & Skills
+
+Python • Pandas • SQL • Excel • Power BI • Matplotlib • Seaborn • Scikit-learn
+
+---
+
+## Focus Area
+
+Business Analytics | Data Analysis | MIS | Entry-level Data Science
+
+---
+
+## Contact
+
+Open to internships and entry-level opportunities in data and business analytics.
